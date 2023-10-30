@@ -22,6 +22,7 @@ export default function Card() {
                   );
                 })}
               </select>
+              {/* bg changed */}
               <select className="m-2 h-100  bg-success rounded">
                 <option value="half">Half</option>
                 <option value="full">full</option>
